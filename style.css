@@ -62,44 +62,44 @@ body {
 }
 
 /* secao lojas*/
-.lojas{
+.estados{
     background-color: #a9a9a9;
 }
 
-.lojas-titulo{
+.estado-titulo{
 color: #3B0050;
 text-align: center;
 padding: 50px;
 font-size: 45px;
 }
 
-.lojas-todosestados-div{
+.todosestados-div{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
-.loja-estado{
+.estado{
     text-align: center;
    
 }
 
-.lojas-estado-img{
+.estado-img{
     width: 20px;
 }
-.lojas-estado-nome{
+.estado-nome{
     font-weight: 100;
     text-decoration: underline;
     color: #FFFFFF;
 }
-.lojas-estado-nome:hover{
+.estado-nome:hover{
     font-weight: 100;
     text-decoration: underline;
     color: orange;
 }
-.lojas-estado-icone{
+.estado-icone{
     width: 30px;
     padding: 5px 0 10px 0;
 }
-.lojas-estado-icone:hover{
+.estado-icone:hover{
     width: 35px;
     padding: 5px 0;
 }
