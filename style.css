@@ -2,9 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
 body {
-    font-family: 'Mooli';
+    font-family: 'Jaro';
 }
 
 /* secao cabecalho*/
